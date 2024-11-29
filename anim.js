@@ -22,15 +22,13 @@ var lyricsData = [
   { text: "Sin duda alguna, en el fondo sé que", time: 56 },
   { text: "Saldremos adelante ", time: 61 },
   { text: "Como siempre lo hacemos", time: 63 },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
-  // { text: "", time:  },
+  { text: "cada segundo, cada minuto", time: 71 },
+  { text: "Te quiero cerca de mí, donde debes estar", time: 73 },
+  { text: "No hay límite", time: 76 },
+  { text: "Para lo que haría por ti", time: 77 },
+  { text: "Y sabes, pones mi mundo de cabeza", time: 81 },
+  { text: "Me atrapas antes de caer al suelo", time: 86 },
+  { text: "Y yo haría lo mismo por ti", time: 90 },
 ];
 
 // Animar las letras
